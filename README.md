@@ -11,14 +11,23 @@ To use this application:
 You should now be able to interact with the application via the terminal
 
 Some important commands you should know:
+
   STORE: Lists all available audiocontent
+  
   DOWNLOAD: Adds a song to you library
+  
   SONGS: Lists all songs in your library
+  
   BOOKS: Lists all books in your library
+  
   PODCASTS: Lists all podcasts in your library
+  
   ARTISTS: Lists all artists in your library
+  
   PLAYLISTS: Lists all playlists in your library
+  
   SEARCH: Searches audiocontent by title
+  
   PLAYSONG: Plays songs from your library
   
   
