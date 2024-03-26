@@ -7,6 +7,7 @@ To use this application:
     javac MyAudioUI.java
 3. After successful compilation, run the application with:
     java MyAudioUI
+
 You should now be able to interact with the application via the terminal
 
 Some important commands you should know:
